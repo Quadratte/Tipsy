@@ -48,13 +48,6 @@
 			path = Controllers;
 			sourceTree = "<group>";
 		};
-		5A5DB09B2DE31139008ACDEA /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
 		ADB689462326708D006D4E2B = {
 			isa = PBXGroup;
 			children = (
@@ -76,7 +69,6 @@
 			children = (
 				ADB689522326708D006D4E2B /* AppDelegate.swift */,
 				ADB689542326708D006D4E2B /* SceneDelegate.swift */,
-				5A5DB09B2DE31139008ACDEA /* Models */,
 				5A06AECB2DE1D04700083C7A /* Controllers */,
 				ADB689582326708D006D4E2B /* Main.storyboard */,
 				ADB6895B2326708E006D4E2B /* Assets.xcassets */,
